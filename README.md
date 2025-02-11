@@ -1,1 +1,1 @@
-Conducting hypothesis test for waze daataset using python.
+Conducting hypothesis test on waze daataset using python.
